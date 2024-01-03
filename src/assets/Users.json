@@ -1,0 +1,19 @@
+[
+    {
+        "id":101,
+        "firstName":"Abhishek",
+        "lastName":"Tiwari",
+        "email":"abhi.tiwari@gmail.com",
+        "phone":"7098675623",
+        "address":"L 1406, Logix Blossom Greens, Noida"
+    },
+
+    {
+        "id":102,
+        "firstName":"Ghits",
+        "lastName":"Tiwari",
+        "email":"ghits.tiwari@gmail.com",
+        "phone":"7098678923",
+        "address":"L 1406, Logix Blossom Greens, Noida"
+    }
+]
